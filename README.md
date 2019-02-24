@@ -1,7 +1,7 @@
 # Enumerator
 Simple enumeration scripts combined in one for easier enumeration.
 
-# Available Functions
+## Available Functions
 * Traceroute
 * Ping Test
 * DNS Lookup
