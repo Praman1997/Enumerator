@@ -7,7 +7,8 @@ import os
 import sys
 import socket
 
-hackertarget_logo = """
+def run():
+    logo = """
  _____                                     _
 |  ___|                                   | |
 | |__ _ __  _   _ _ __ ___   ___ _ __ __ _| |_ ___  _ __
@@ -17,9 +18,9 @@ hackertarget_logo = """
                                                          
                     Praman Kasliwal
  | github.com/praman1997 | linkedin.com/in/praman-kasliwal-12892b146 |
-"""
+    """
 
-menu = """
+    menu = """
 [0] Exit
 [1] Traceroute
 [2] Ping Test
@@ -32,13 +33,9 @@ menu = """
 [9] Reverse IP Lookup
 [10] TCP Port Scan
 [11] HTTP Header Check
-"""
-
-print hackertarget_logo
-print menu
-
-def run():
-
+    """
+    print logo
+    print menu
     try:
         choice = input("Which option number : ")
 
