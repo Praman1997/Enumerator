@@ -14,12 +14,12 @@ Simple enumeration scripts combined in one for easier enumeration.
 * TCP Port Scan
 * HTTP Header Check
 
-# Usage
+## Usage
 Easy to use tool... 
 ```bash
 $ python enumerator.py
 ```
-# Pre-Requisites
+## Pre-Requisites
 * Geolite2 --> pip install python-geoip-geolite2
 * Requests --> pip install requests
 * OS --> pip install os
