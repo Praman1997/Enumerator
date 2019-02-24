@@ -131,7 +131,11 @@ def run():
 
         elif choice == 0:
             exit()
-
+          
+        else:
+            print("[-] Invalid Option!")
+            run()
+            
     except KeyboardInterrupt:
         print("\n[-] Aborted!")
         quit()
