@@ -17,7 +17,8 @@ def run():
 \____/_| |_|\__,_|_| |_| |_|\___|_|  \__,_|\__\___/|_|
                                                          
                     Praman Kasliwal
- | github.com/praman1997 | linkedin.com/in/praman-kasliwal-12892b146 |
+ |    github.com/praman1997  |       https://praman1997.github.io       |
+ | twitter.com/pramankasliwal| linkedin.com/in/praman-kasliwal-12892b146|
     """
 
     menu = """
