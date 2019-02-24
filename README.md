@@ -2,17 +2,17 @@
 Simple enumeration scripts combined in one for easier enumeration.
 
 # Available Functions
-[1] Traceroute
-[2] Ping Test
-[3] DNS Lookup
-[4] Find DNS Host
-[5] Find Shared DNS
-[6] Zone Transfer
-[7] Whois Lookup
-[8] IP Location Lookup
-[9] Reverse IP Lookup
-[10] TCP Port Scan
-[11] HTTP Header Check
+* Traceroute
+* Ping Test
+* DNS Lookup
+* Find DNS Host
+* Find Shared DNS
+* Zone Transfer
+* Whois Lookup
+* IP Location Lookup
+* Reverse IP Lookup
+* TCP Port Scan
+* HTTP Header Check
 
 # Usage
 Easy to use tool... 
